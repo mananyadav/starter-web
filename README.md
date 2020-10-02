@@ -10,3 +10,4 @@ Sample website with plenty of files for demos
 All secondary changes implemented
 
 ##Conclusion
+Final changes implemented
